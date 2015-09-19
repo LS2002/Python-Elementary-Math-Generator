@@ -1,3 +1,3 @@
-# Python-K2-Math-Generator
+# Python-Elementary-Math-Generator
 
-Use this python script to generate bunch of simple Math questions for Grade 2 and above.
+Use this python script to generate bunch of simple Math questions for elementray Grade 2 and above.
